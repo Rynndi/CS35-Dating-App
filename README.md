@@ -12,7 +12,7 @@ BruinDate is a Tinder clone, browser dating app.
 ## Set Up
 1. Clone the repo using the following command:
     ```bash
-    git clone https://github.com/WskLucky/Group-CS35L-Dating-App.git
+    git clone https://github.com/Rynndi/CS35-Dating-App.git
     ```
 2. Add `.env` to the 'server' directory with the following text:
     ```env
